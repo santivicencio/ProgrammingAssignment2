@@ -1,4 +1,7 @@
+## Coursera - Data Science Specialization
+## R-Programming Course
 ## Programming Assignment 2
+
 ## In this assignment we are going to write an R function that is able to cache potentially time-consuming computations.
 ## In this case, we will structure two functions that will be used to create a special object that stores a cuadratic matrix
 ## and caches its inverse.
